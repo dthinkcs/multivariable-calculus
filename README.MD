@@ -25,5 +25,9 @@ Operators:
   - [Laplacian](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P2.derivatives-of-multivariable-functions/9.laplacian)
   - [Jacobian](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P2.derivatives-of-multivariable-functions/10.jacobian)
 - __Part III: Applications of multivariable derivatives__
+  - [Quadratic approximations](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P3.application-of-multivariable-functions/2.quadratic-approximations)
+  - [Optimizing multivariable functions](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P3.application-of-multivariable-functions/3.optimizing-multivariable-functions)
+  - [Lagrange multipliers and constrained optimization](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P3.application-of-multivariable-functions/4.lagrange-multipliers-and-constrained-optimization)
 - __Part IV: Integrating multivariable functions__
-- __Part V: Green's, Stokes', and the divergence theorems__
+  - [Line integrals for scalar functions](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/1.line-integrals-for-scalar-functions)
+  - [Line integrals in vector fields](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/2.line-integrals-in-vector-fields)
