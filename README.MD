@@ -38,14 +38,14 @@ Use 3 libaries to visualize functions:
 - `ipyvolume`
 - `plotly`
 
-*`matplotlib`*
+**`matplotlib`**
 <img src="images/matplotlib2.png" width="300px" height="auto"> 
 
-*`ipyvolume`*
+**`ipyvolume`**
 
 <img src="images/ipyvolume.jpg" width="300px" height="auto"> 
 
-*`plotly`*
+**`plotly`**
 A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/
 
 <img src="images/demo.gif" width="300px" height="auto"> 
