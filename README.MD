@@ -31,3 +31,6 @@ Operators:
 - __Part IV: Integrating multivariable functions__
   - [Line integrals for scalar functions](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/1.line-integrals-for-scalar-functions)
   - [Line integrals in vector fields](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/2.line-integrals-in-vector-fields)
+  
+## Demo
+<img src="images/demo.gif" width="300px" height="auto"> 
