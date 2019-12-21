@@ -40,13 +40,13 @@ Use 3 libaries to visualize functions:
 
 **`matplotlib`**
 
-<img src="images/matplotlib2.png" width="300px" height="auto"> 
+<img src="images/matplotlib2.png" width="600px" height="auto"> 
 
 **`ipyvolume`**
 
-<img src="images/ipyvolume.jpg" width="300px" height="auto"> 
+<img src="images/ipyvolume.jpg" width="600px" height="auto"> 
 
 **`plotly`**
-A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/
+A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/. Source code in [here](https://github.com/TaiChiTiger/function-visualizer).
 
 <img src="images/plotly.gif" width="600px" height="auto"> 
