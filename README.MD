@@ -33,7 +33,7 @@ Operators:
   - [Line integrals in vector fields](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/2.line-integrals-in-vector-fields)
   
 ## Some Features
-Use 3 libaries to visualize functions:
+1\. Use 3 libaries to visualize functions:
 - `matplotlib`
 - `ipyvolume`
 - `plotly`
@@ -50,3 +50,7 @@ Use 3 libaries to visualize functions:
 A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/. Source code in [here](https://github.com/TaiChiTiger/function-visualizer).
 
 <img src="images/plotly.gif" width="600px" height="auto"> 
+
+2\. Embed video in jupyer notebook 
+
+<img src="images/video.jpg" width="600px" height="auto"> 
