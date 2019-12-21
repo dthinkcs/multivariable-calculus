@@ -32,7 +32,20 @@ Operators:
   - [Line integrals for scalar functions](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/1.line-integrals-for-scalar-functions)
   - [Line integrals in vector fields](https://github.com/TaiChiTiger/multivariable-calculus/tree/master/P4.integrating-multivariable-functions/2.line-integrals-in-vector-fields)
   
-## Demo
+## Some Features
+Use 3 libaries to visualize functions:
+- `matplotlib`
+- `ipyvolume`
+- `plotly`
+
+*`matplotlib`*
+<img src="images/matplotlib2.png" width="300px" height="auto"> 
+
+*`ipyvolume`*
+
+<img src="images/ipyvolume.jpg" width="300px" height="auto"> 
+
+*`plotly`*
 A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/
 
 <img src="images/demo.gif" width="300px" height="auto"> 
