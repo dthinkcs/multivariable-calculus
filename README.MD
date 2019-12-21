@@ -39,6 +39,7 @@ Use 3 libaries to visualize functions:
 - `plotly`
 
 **`matplotlib`**
+
 <img src="images/matplotlib2.png" width="300px" height="auto"> 
 
 **`ipyvolume`**
@@ -48,4 +49,4 @@ Use 3 libaries to visualize functions:
 **`plotly`**
 A "Function Visualizer" can be accessed: https://function-visualizer.herokuapp.com/
 
-<img src="images/demo.gif" width="300px" height="auto"> 
+<img src="images/plotly.gif" width="300px" height="auto"> 
